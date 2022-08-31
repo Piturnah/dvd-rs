@@ -2,6 +2,10 @@
 
 DVD screensaver in your terminal!
 
+<div align="center">
+  <img height="300" src="https://user-images.githubusercontent.com/20472367/187775545-f2f5083f-4c7e-4700-a4e8-77b2698a1aea.png">
+</div>
+
 ## Installation
 
 > **NOTE:** You will need [Rust](https://www.rust-lang.org/) on your system for this installation method.
