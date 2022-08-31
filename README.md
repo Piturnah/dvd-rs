@@ -6,8 +6,6 @@ DVD screensaver in your terminal!
   <img height="300" src="https://user-images.githubusercontent.com/20472367/187783946-4b31f283-d4f5-44c2-9bf6-f63b231678ad.gif">
 </div>
 
-## Installation
-
 ## Usage
 
 ```console
