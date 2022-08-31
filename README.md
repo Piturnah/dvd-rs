@@ -8,16 +8,10 @@ DVD screensaver in your terminal!
 
 ## Installation
 
-> **NOTE:** You will need [Rust](https://www.rust-lang.org/) on your system for this installation method.
-
-```console
-$ cargo install --git https://github.com/Piturnah/dvd-rs
-```
-
 ## Usage
 
 ```console
-$ dvd
+$ cargo run --release
 ```
 
 ## License
